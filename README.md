@@ -1,2 +1,4 @@
-# topdown_rpg
-A basic engine for a top down rpg with zoom, inventory system and moving menus
+A basic engine for a topdown rpg game including inventory, weather, moving menus, character sheet and more. Zoom in and out with + and - on the keypad, F1 key to add colour, END ke to exit and the mouse does everything else.
+<br /><br />
+<img src="supakastleqwest.png" border="0" />
+<br />
